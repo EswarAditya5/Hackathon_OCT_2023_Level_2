@@ -8,7 +8,7 @@ You need to predict the status of the interviews so that recruiters can check th
 
 ### Data Description:
 
-| |ariable Name | Variable Descrition |
+| Variable Name | Variable Descrition |
 |--|--|
 |Interview Id | Id for the interview|
 |Candidate Id | Id for the candidate|
@@ -28,10 +28,10 @@ You need to predict the status of the interviews so that recruiters can check th
 |S.P.C - Speaking Pace Candidate| Average Number of words spoken per minute.|
 |L.A.I - Live Absence interviewer| It is the percentage of time the interviewer was not present in the video call.|
 |L.A.C - Live Absence candidate| It is the percentage of time the candidate was not present in the video call.|
-|Q.A - Question asked during the interview|
+|Q.A | Question asked during the interview|
 |P.E.I - Perceived Emotion Interviewer| It is the perceived emotion of Interviewer which can be either Positive or Negative|
 |P.E.C - Perceived Emotion Candidate| It is the perceived emotion of candidate which can be either Positive or Negative|
-|Compliance ratio - Does the interviewer follow the structure that has been guided by the company. It is the ratio of questions assigned to the number of questions which were actually asked.|
+|Compliance ratio | Does the interviewer follow the structure that has been guided by the company. It is the ratio of questions assigned to the number of questions which were actually asked.|
 |Interview Duration | For how much time interview happened|
 |Interview Intro |Does interviewer give the self-introduction to the candidate or not|
 |Candidate Intro |Does candidate give the self-introduction to the interviewer or not|
